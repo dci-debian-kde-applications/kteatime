@@ -1,10 +1,11 @@
-kteatime (4:15.04.3-1~) UNRELEASED; urgency=medium
+kteatime (4:15.08.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.04.0).
   * New upstream release (15.04.1).
   * New upstream release (15.04.3).
+  * New upstream release (15.08.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Jul 2015 16:49:35 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Sep 2015 09:36:45 +0200
 
 kteatime (4:14.12.2-1) experimental; urgency=medium
 
