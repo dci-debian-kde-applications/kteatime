@@ -1,8 +1,11 @@
-kteatime (4:15.12.2-1~) UNRELEASED; urgency=medium
+kteatime (4:16.04.0-1~1.gbp01887e) UNRELEASED; urgency=medium
 
-  * New upstream release (15.12.2).
+  ** SNAPSHOT build @01887ed0d5f39cbdc031720f792b98b98b3361bd **
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 10:00:04 +0100
+  * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 00:42:12 +0200
 
 kteatime (4:15.12.1-1) experimental; urgency=medium
 
