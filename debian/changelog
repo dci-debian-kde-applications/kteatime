@@ -1,6 +1,6 @@
-kteatime (4:16.04.0-1~2.gbp7af15f) UNRELEASED; urgency=medium
+kteatime (4:16.04.1-1~1.gbp1875ff) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @7af15fc3198301e4b1ed8273ddbbd61e565b213d **
+  ** SNAPSHOT build @1875ff6af0378832e0a8d4b7e1f4f979c4103547 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @01887ed0d5f39cbdc031720f792b98b98b3361bd **
@@ -12,8 +12,9 @@ kteatime (4:16.04.0-1~2.gbp7af15f) UNRELEASED; urgency=medium
   * New upstream release (15.12.2).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:13:40 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 00:42:14 +0200
 
 kteatime (4:15.12.1-1) experimental; urgency=medium
 
