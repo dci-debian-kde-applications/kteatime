@@ -1,10 +1,6 @@
-kteatime (4:16.04.1-1~1.gbp1875ff) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @1875ff6af0378832e0a8d4b7e1f4f979c4103547 **
+kteatime (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @01887ed0d5f39cbdc031720f792b98b98b3361bd **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
@@ -12,9 +8,8 @@ kteatime (4:16.04.1-1~1.gbp1875ff) UNRELEASED; urgency=medium
   * New upstream release (15.12.2).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 00:42:14 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 26 May 2016 00:55:50 +0200
 
 kteatime (4:15.12.1-1) experimental; urgency=medium
 
