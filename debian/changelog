@@ -1,3 +1,11 @@
+kteatime (4:16.04.2-1~1.gbpf67712) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @f677123cdb0bb9d835b93ee0cdaf73d0fa0134f4 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 00:42:11 +0200
+
 kteatime (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
