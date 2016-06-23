@@ -1,10 +1,8 @@
-kteatime (4:16.04.2-1~1.gbpf67712) UNRELEASED; urgency=medium
+kteatime (4:16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @f677123cdb0bb9d835b93ee0cdaf73d0fa0134f4 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 00:42:11 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 23 Jun 2016 09:34:45 +0200
 
 kteatime (4:16.04.1-1) unstable; urgency=medium
 
