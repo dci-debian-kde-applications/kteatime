@@ -1,3 +1,11 @@
+kteatime (4:16.08.0-1~1.gbpa3c13d) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a3c13dcd672cc934232f7f2103b6f9ac8e1ce430 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 00:42:25 +0200
+
 kteatime (4:16.04.2-1) unstable; urgency=medium
 
   * New upstream release.
