@@ -1,10 +1,10 @@
-kteatime (4:16.08.0-0r1) UNRELEASED; urgency=medium
+kteatime (4:16.08.0-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Change the watch file to look for stable releases only.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 30 Aug 2016 21:13:40 +0200
+ -- Pino Toscano <pino@debian.org>  Tue, 30 Aug 2016 21:17:28 +0200
 
 kteatime (4:16.04.2-1) unstable; urgency=medium
 
