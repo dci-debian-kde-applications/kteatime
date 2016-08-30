@@ -1,3 +1,10 @@
+kteatime (4:16.08.0-0r1) UNRELEASED; urgency=medium
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 30 Aug 2016 21:13:40 +0200
+
 kteatime (4:16.04.2-1) unstable; urgency=medium
 
   * New upstream release.
