@@ -1,10 +1,11 @@
-kteatime (4:16.08.0-2~1.gbp3e7be4) UNRELEASED; urgency=medium
+kteatime (4:16.08.1-1~1.gbpd68c2e) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @3e7be4bc57853f1641954ce7ec92232be94c175c **
+  ** SNAPSHOT build @d68c2e16997610e7d0b0a74dac499d3be9ddc4e0 **
 
   * Update build-deps and deps with the info from cmake
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 31 Aug 2016 10:02:51 +0200
+ -- Automatic packaging <jenkins@gnuservers.com.ar>  Fri, 09 Sep 2016 00:42:40 +0200
 
 kteatime (4:16.08.0-1) unstable; urgency=medium
 
