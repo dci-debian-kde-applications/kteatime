@@ -1,11 +1,12 @@
-kteatime (4:16.08.1-1~1.gbpd68c2e) UNRELEASED; urgency=medium
+kteatime (4:16.08.1-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @d68c2e16997610e7d0b0a74dac499d3be9ddc4e0 **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
-  * UNRELEASED
 
- -- Automatic packaging <jenkins@gnuservers.com.ar>  Fri, 09 Sep 2016 00:42:40 +0200
+  [ Maximiliano Curia ]
+  * New upstream release (16.08.1)
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 18 Oct 2016 09:43:19 +0200
 
 kteatime (4:16.08.0-1) unstable; urgency=medium
 
